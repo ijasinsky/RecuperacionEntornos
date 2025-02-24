@@ -41,5 +41,6 @@ Requisitos
 Lenguaje de Programación: El sistema puede ser implementado en cualquier lenguaje orientado a objetos, como Java, C# o Python.
 Base de Datos: El sistema debe contar con una base de datos para almacenar la información de los clientes y las películas.
 Interfaz de Usuario: Puede ser una interfaz de usuario en consola o gráfica, dependiendo de la preferencia.
+
 Conclusión
 Este proyecto tiene como objetivo proporcionar una solución eficiente para gestionar las operaciones básicas de un videoclub, incluyendo el registro de películas y clientes, así como la gestión de alquileres y devoluciones. A través de los diagramas de casos de uso y secuencia, se define claramente el flujo de operaciones y las interacciones entre los actores y el sistema.
